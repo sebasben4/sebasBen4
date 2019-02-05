@@ -1,1 +1,2 @@
-para angular la carpeta de node_modules esta dividida en varios comprimidos, descomprimir y ponerlos en esta carpeta
+Para angular la carpeta de node_modules esta dividida en varios comprimidos, descomprimir y ponerlos en esta carpeta.
+Para la aplicacion en si cargar a la carpeta del proyecto la parte de angular y symfony
